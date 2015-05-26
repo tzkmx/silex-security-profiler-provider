@@ -2,7 +2,7 @@
     "name": "kurl/silex-security-profiler-provider",
     "description": "Another URL shortener",
     "license": "MIT",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "type": "project",
     "require": {
         "php": ">=5.3.3",
